@@ -5,7 +5,7 @@ import Draw from './components/Draw';
 function app() {
   document.body.innerHTML = `
   <main>
-  ${Title('Questo è un titolo')}
+  ${Title('Ho modificato una cosa')}
   <br/>
   ${Hello}
   <br/>
